@@ -1,0 +1,9 @@
+# It is necessary to flag the project root
+
+root = true
+
+# The * signals the files that these settings will apply
+
+[*]
+indent_style = space
+indent_size = 2
